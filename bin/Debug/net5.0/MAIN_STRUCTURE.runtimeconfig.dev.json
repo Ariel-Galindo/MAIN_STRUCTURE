@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ariel.lugo.CAREFUSION\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ariel.lugo.CAREFUSION\\.nuget\\packages"
+    ]
+  }
+}
